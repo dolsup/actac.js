@@ -21,7 +21,7 @@ console.log("Hello, Aheui".aheui);
 #### 귀찮게 쓰는 방법
 ```js
 var actac = require('actac');
-console.log(actac.aheui("Hello, Aheui");
+console.log(actac.aheui("Hello, Aheui"));
 ```
 
 #### 결과
