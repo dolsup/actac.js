@@ -3,7 +3,7 @@
   "description": "Convert ASCII characters into Aheui print code",
   "license": "THE BEER-WARE LICENSE (Revision 42) ",
   "author": "dolsup <1890mah@gmail.com>",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "./lib/index",
   "repository": {
     "type": "git",
