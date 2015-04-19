@@ -21,12 +21,12 @@ console.log("Hello, Aheui".aheui);
 #### 귀찮게 쓰는 방법
 ```js
 var actac = require('actac');
-console.log(actac.aheui("Hello, Aheui");
+console.log(actac.aheui("Hello, Aheui"));
 ```
 
 #### 결과
 ```
-밣밢따맣밗밮따밦따밙다맣밦밟따박따맣밦밟따반따맣밬발따밝따밦다맣밪밣다밨따맣밣밥따맣밟밠따반다맣밞밥다밣따맣밨밖따밦따밚다맣밝밦다밞따맣밬발따밝따맣하
+밣밢따맣밗밮따밦따밙다맣밦밟따박따맣밦밟따반따맣밬발따밝따밦다맣밪밣다밨따맣밣밥따맣밟밠따반다맣밞밥다밣따맣밨밖따밦따밚다맣밝밦다밞따맣밬발따밝따맣희
 ```
 
 #### + 왜 있는지 모르겠는 기능
