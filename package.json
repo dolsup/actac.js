@@ -2,10 +2,7 @@
   "name": "actac",
   "description": "Convert ASCII characters into Aheui print code",
   "license": "THE BEER-WARE LICENSE (Revision 42) ",
-  "author": {
-    "name": "dolsup",
-    "email": "1890mah@gmail.com"
-  },
+  "author": "dolsup <1890mah@gmail.com>",
   "version": "1.0.0",
   "main": "./lib/index",
   "repository": {
